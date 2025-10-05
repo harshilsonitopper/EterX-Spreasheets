@@ -1,0 +1,7 @@
+{
+  "name": "EterX AI Sheets",
+  "description": "An intelligent spreadsheet application powered by EterX AI. Analyze, visualize, and manipulate your data with natural language.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
